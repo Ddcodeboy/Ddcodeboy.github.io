@@ -1,0 +1,50 @@
+.flex-container{
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+}
+.flex-item{
+    width: 15%;
+
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    justify-items: center;
+    margin: 0px;
+    margin-top: 50px;
+}
+h3{
+  color: hsl(0, 0%, 95%);  
+}
+
+  .item-1{
+    min-height: 300px;
+    background-color: hsl(31, 77%, 52%);
+}
+.item-2{
+    min-height: 300px;
+    background-color:hsl(184, 100%, 22%);
+
+}
+.item-3{
+    min-height: 300px;
+    background-color: hsl(179, 100%, 13%);
+}
+
+button{
+    width:120px;
+    height:40px;
+    border-radius: 40px;
+    border:none;
+    padding-bottom: 0px;
+}
+#btn-1{
+    color: hsl(31, 77%, 52%);
+}
+#btn-2{
+    width: 17%;
+    color:hsl(184, 100%, 22%) ;
+}
+#btn-3{
+    color: hsl(179, 100%, 13%);
+}
